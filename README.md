@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/PavlosIsaris/Coursera-Machine-Learning-Foundations-A-Case-Study-Approach)
+
 # Coursera-UW-Machine-Learning-Foundations-A-Case-Study-Approach
 
 This course can be found at [Coursera](https://www.coursera.org/learn/ml-foundations)
